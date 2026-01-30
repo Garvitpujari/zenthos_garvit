@@ -23,6 +23,11 @@ The testing of the model was done in notebook using just by loading differnet ch
 In the testing code above i have mentioned all the commands i used to install libraries
 
 
+All daily updates were added in the googledocs along with related codes , weights and hugging face links 
+https://docs.google.com/document/d/1EmNNoWiVy2PoXx5M1QeT9jKGL1eKU17Fbk3Nb2W90Ks/edit?usp=sharing
+
+
+
 
 
 
